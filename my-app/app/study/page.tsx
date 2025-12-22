@@ -1,15 +1,15 @@
 "use client";
-import { useEffect } from "react";
+// import { useEffect } from "react";
 import Head from "next/head";
 
 export default function StudyPage() {
-    useEffect(() => {
-        const timer = setTimeout(() => {
-            window.location.href = "/";
-        }, 1500);
+    // useEffect(() => {
+    //     const timer = setTimeout(() => {
+    //         window.location.href = "/";
+    //     }, 1500);
 
-        return () => clearTimeout(timer);
-    }, []);
+    //     return () => clearTimeout(timer);
+    // }, []);
 
     return (
         <>
