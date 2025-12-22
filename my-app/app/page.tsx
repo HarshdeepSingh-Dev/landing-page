@@ -21,7 +21,7 @@ export default function Home() {
       </h1>
 
       {/* Join Telegram Button */}
-      <a href="https://t.me/+k-S-yQDTe0BmNjZl" target="_blank" rel="noopener noreferrer"
+      <a href="https://t.me/+VdbkHL3x6R8zOTU1" target="_blank" rel="noopener noreferrer"
         className="block w-full sm:w-auto mx-auto bg-[#BE9252] hover:bg-[#A97F45] text-white rounded-xl text-lg font-semibold px-8 py-3 mb-6 text-center shadow-lg transition">
         <span className="mr-2 inline-block align-middle">
           {/* Add telegram SVG/icon here */}
@@ -40,11 +40,11 @@ export default function Home() {
           <img src="/images/screenshot3.jpg" alt="Excited Person" className="h-32 rounded shadow-md mx-1" />
         </div>
         <p className="mb-2 text-black font-semibold text-base">Start with ₹1000 • Win & Withdraw ₹5000</p>
-        <a href="https://t.me/+k-S-yQDTe0BmNjZl" target="_blank" className="bg-[#BE9252] hover:bg-[#A97F45] text-white px-4 py-2 rounded-lg font-semibold mb-4">START WINNING</a>
+        <a href="https://t.me/+VdbkHL3x6R8zOTU1" target="_blank" className="bg-[#BE9252] hover:bg-[#A97F45] text-white px-4 py-2 rounded-lg font-semibold mb-4">START WINNING</a>
       </div>
 
       {/* Repeat Join Button */}
-      <a href="https://t.me/+k-S-yQDTe0BmNjZl" target="_blank" className="block w-full sm:w-auto bg-[#BE9252] hover:bg-[#A97F45] text-white rounded-xl text-lg font-semibold px-8 py-3 mb-6 text-center shadow-lg transition">
+      <a href="https://t.me/+VdbkHL3x6R8zOTU1" target="_blank" className="block w-full sm:w-auto bg-[#BE9252] hover:bg-[#A97F45] text-white rounded-xl text-lg font-semibold px-8 py-3 mb-6 text-center shadow-lg transition">
         JOIN VIP CHANNEL
       </a>
 
